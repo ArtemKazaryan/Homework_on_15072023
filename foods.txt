@@ -1,0 +1,1 @@
+Bread,40,Butter,100,Sausage,250,Tea,150,Sour_cream,50,Bacon,300
